@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aafaquegit
-- 👀 I’m interested in web dev, android dev and most importantly game dev.
+- 👀 I’m interested in web dev, android dev.
 - 🌱 I’m currently learning computer science engineering.
 - 💞️ I’m looking to collaborate on any big projects involving software development.
 - 📫 How to reach me.
