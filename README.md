@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aafaquegit
-- 👀 I’m interested in web dev, android dev.
-- 🌱 I’m currently learning computer science engineering.
+- 👀 I’m interested in web dev and enterprise level application dev.
+- 🌱 I have completed computer science engineering.
+- Currently working on a big IT company working on exciting and emerging tech.
 - 💞️ I’m looking to collaborate on any big projects involving software development.
 - 📫 How to reach me.
 
